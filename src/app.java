@@ -1,4 +1,6 @@
 namespace app;
 class   App{
-    void static Main(){}
+    void static Main(){
+        System.out.println('hello word! :D');⌚
+    }
 }
